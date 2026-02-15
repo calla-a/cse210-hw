@@ -2,6 +2,11 @@ using System;
 using System.Security.Cryptography.X509Certificates;
 using Mindfulness;
 
+// Now, for the reflecting and listing activities repeated prompts and questions won't be selected until
+// they all had been displayed at leat one time.
+// The number of times that the activities were perfomed in the sesion will be showed to the user when
+// the program finishes.
+
 class Program
 {
     static void Main(string[] args)
