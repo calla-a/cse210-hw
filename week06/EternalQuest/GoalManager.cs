@@ -263,6 +263,7 @@ namespace EternalQuest
             Console.WriteLine();
         }
 
+    // Player's level method
         public void DisplalLevel()
         {
             string level = "PPP";
